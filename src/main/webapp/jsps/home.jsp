@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to my life journey of becoming a DevOps Engineer.</h1>
 <h1 align="center">The journey has never been an easy one but i give God the glory for giving me the determine spirit and the wisdom to understand
-	God is great and will remain great as i narrow towards the end of this course
+	God is great and will remain great as I narrow towards the end of this course
 	I pray you be with me during my interview and at the job site.
 	                       AMEN 
 						Thank you lanndmarktechnologies </h1>
