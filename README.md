@@ -1,0 +1,2 @@
+# DenisDevOps-journey
+personal struggle
