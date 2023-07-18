@@ -9,11 +9,12 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Tesla Web application Dubai23 Project.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class32 will start on April 15, 2023. </h1>
+<h1 align="center">Welcome to my life journey of becoming a DevOps Engineer.</h1>
+<h1 align="center">The journey has never been an easy one but i give God the glory for giving me the determine spirit and the wisdom to understand
+	God is great and will remain great as i narrow towards the end of this course
+	I pray you be with me during my interview and at the job site.
+	                       AMEN 
+						Thank you lanndmarktechnologies </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
